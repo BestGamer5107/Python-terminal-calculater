@@ -1,0 +1,1 @@
+print(eval(input("What is the equation?")))
