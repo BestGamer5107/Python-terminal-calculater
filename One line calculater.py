@@ -1,1 +1,1 @@
-print(eval(input("What is the equation?")))
+print("Result: " + eval(input("What is the equation?")))
